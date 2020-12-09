@@ -1,0 +1,27 @@
+{
+  "Name": "Mega University",
+  "Address": "Hyderabad",
+  "Contact": {
+    "1": 9696969696,
+    "2": 8686868686,
+    "3": 7676767676
+  },
+  "Email": {
+    "1": "admin@megauniversity.com",
+    "2": "admin@admin.com"
+  },
+  "Students": [
+    {
+      "Name": "Rob",
+      "Address": "Kukatpally"
+    },
+    {
+      "Name": "Roshan",
+      "FaName": "Madhapur"
+    },
+    {
+      "Name": "Maddy",
+      "FaName": "Gachibowli"
+    }
+  ]
+}

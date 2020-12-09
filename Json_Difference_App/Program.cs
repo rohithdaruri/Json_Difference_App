@@ -7,6 +7,9 @@ namespace Json_Difference_App
         static void Main(string[] args)
         {
             Console.WriteLine("Json_Difference_App!");
+            Comparer comparer = new Comparer();
+            comparer.Compare();
+            Console.ReadKey();
         }
     }
 }

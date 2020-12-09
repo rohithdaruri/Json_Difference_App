@@ -1,0 +1,26 @@
+{
+  "Name": "Giga University",
+  "Address": "Hyderabad",
+  "Contact": {
+    "1": 9696969696,
+    "2": 8181818181
+  },
+  "Email": {
+    "1": "admin@gigauniversity.com",
+    "2": "admin@admin.com"
+  },
+  "Students": [
+    {
+      "Name": "Sid",
+      "Address": "Kukatpally"
+    },
+    {
+      "Name": "Roshan",
+      "FaName": "Nampally"
+    },
+    {
+      "Name": "Maddy",
+      "FaName": "LB Nagar"
+    }
+  ]
+}
